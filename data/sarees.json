@@ -1,0 +1,2144 @@
+[
+  {
+    "id": 1,
+    "name": "Maheshwari Leaf Butti Pure Silk/Cotton Chintamani",
+    "slug": "maheshwari-leaf-butti-pure-silk-cotton-chintamani-1",
+    "weave": "Maheshwari",
+    "colour": "Teal",
+    "price": 6080,
+    "mrp": 6080,
+    "stock": 1,
+    "stockStatus": "Low stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Madhya Pradesh",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/maheshwari-leaf-butti-pure-silk-cotton-chintamani-1",
+    "liveUrl": "https://www.padmorasarees.com/product/maheshwari-leaf-butti-pure-silk-cotton-chintamani-1",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791632345470-ychysk.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1109,
+        "colorName": "Chintamani",
+        "swatch": "teal",
+        "price": 6080,
+        "stock": 1,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791632345470-ychysk.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/maheshwari-leaf-butti-pure-silk-cotton-chintamani-1/image_0.webp"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Maheshwari Flower Butti Pure Silk/Cotton Small Border Kunku",
+    "slug": "maheshwari-flower-butti-pure-silk-cotton-small-border-kunku-2",
+    "weave": "Maheshwari",
+    "colour": "Red",
+    "price": 6080,
+    "mrp": 6080,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Madhya Pradesh",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/maheshwari-flower-butti-pure-silk-cotton-small-border-kunku-2",
+    "liveUrl": "https://www.padmorasarees.com/product/maheshwari-flower-butti-pure-silk-cotton-small-border-kunku-2",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791624504928-f7m9by.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1110,
+        "colorName": "Kunku",
+        "swatch": "red",
+        "price": 6080,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791624504928-f7m9by.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/maheshwari-flower-butti-pure-silk-cotton-small-border-kunku-2/image_0.webp"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Banarasi Small Border Pure Silk Butter Yellow",
+    "slug": "banarasi-small-border-pure-silk-butter-yellow-3",
+    "weave": "Banarasi",
+    "colour": "Yellow",
+    "price": 9050,
+    "mrp": 9050,
+    "stock": 5,
+    "stockStatus": "In stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Uttar Pradesh",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/banarasi-small-border-pure-silk-butter-yellow-3",
+    "liveUrl": "https://www.padmorasarees.com/product/banarasi-small-border-pure-silk-butter-yellow-3",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791636602878-uevvwl.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791636627154-ccqf16.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1111,
+        "colorName": "Butter Yellow",
+        "swatch": "yellow",
+        "price": 9050,
+        "stock": 5,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791636602878-uevvwl.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791636627154-ccqf16.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/banarasi-small-border-pure-silk-butter-yellow-3/image_0.webp",
+      "/sarees/banarasi-small-border-pure-silk-butter-yellow-3/image_1.webp"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Maheshwari Flower Butti Pure Silk/Cotton Small Border Haldi",
+    "slug": "maheshwari-flower-butti-pure-silk-cotton-small-border-haldi-4",
+    "weave": "Maheshwari",
+    "colour": "Yellow",
+    "price": 6080,
+    "mrp": 6080,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Madhya Pradesh",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/maheshwari-flower-butti-pure-silk-cotton-small-border-haldi-4",
+    "liveUrl": "https://www.padmorasarees.com/product/maheshwari-flower-butti-pure-silk-cotton-small-border-haldi-4",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791630138360-sa0drb.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1112,
+        "colorName": "Haldi Yellow",
+        "swatch": "yellow",
+        "price": 6080,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791630138360-sa0drb.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/maheshwari-flower-butti-pure-silk-cotton-small-border-haldi-4/image_0.webp"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Maheshwari Diamond Butti Pure Silk/Cotton Burgandy",
+    "slug": "maheshwari-diamond-butti-pure-silk-cotton-burgandy-5",
+    "weave": "Maheshwari",
+    "colour": "Maroon",
+    "price": 6080,
+    "mrp": 6080,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Madhya Pradesh",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/maheshwari-diamond-butti-pure-silk-cotton-burgandy-5",
+    "liveUrl": "https://www.padmorasarees.com/product/maheshwari-diamond-butti-pure-silk-cotton-burgandy-5",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791629633101-9q4712.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791629647487-0nt524.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791629814969-29fioz.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1113,
+        "colorName": "Maroon",
+        "swatch": "maroon",
+        "price": 6080,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791629633101-9q4712.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791629647487-0nt524.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791629814969-29fioz.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/maheshwari-diamond-butti-pure-silk-cotton-burgandy-5/image_0.webp",
+      "/sarees/maheshwari-diamond-butti-pure-silk-cotton-burgandy-5/image_1.webp",
+      "/sarees/maheshwari-diamond-butti-pure-silk-cotton-burgandy-5/image_2.webp"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Maheshwari Diamond Butti Pure Silk/Cotton Rani",
+    "slug": "maheshwari-diamond-butti-pure-silk-cotton-rani-6",
+    "weave": "Maheshwari",
+    "colour": "Pink",
+    "price": 6080,
+    "mrp": 6080,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Madhya Pradesh",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/maheshwari-diamond-butti-pure-silk-cotton-rani-6",
+    "liveUrl": "https://www.padmorasarees.com/product/maheshwari-diamond-butti-pure-silk-cotton-rani-6",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791633749559-qjvym1.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791633758393-1zgo7r.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1114,
+        "colorName": "Rani",
+        "swatch": "pink",
+        "price": 6080,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791633749559-qjvym1.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791633758393-1zgo7r.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/maheshwari-diamond-butti-pure-silk-cotton-rani-6/image_0.webp",
+      "/sarees/maheshwari-diamond-butti-pure-silk-cotton-rani-6/image_1.webp"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Maheshwari Diamond Pure Silk/Cotton Butti Wine",
+    "slug": "maheshwari-diamond-pure-silk-cotton-butti-wine-7",
+    "weave": "Maheshwari",
+    "colour": "Wine",
+    "price": 6080,
+    "mrp": 6080,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Madhya Pradesh",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/maheshwari-diamond-pure-silk-cotton-butti-wine-7",
+    "liveUrl": "https://www.padmorasarees.com/product/maheshwari-diamond-pure-silk-cotton-butti-wine-7",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791633038770-ouvr33.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791633082859-wmbnrw.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1115,
+        "colorName": "Wine",
+        "swatch": "wine",
+        "price": 6080,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791633038770-ouvr33.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791633082859-wmbnrw.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/maheshwari-diamond-pure-silk-cotton-butti-wine-7/image_0.webp",
+      "/sarees/maheshwari-diamond-pure-silk-cotton-butti-wine-7/image_1.webp"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Maheshwari Arrow Butti Tissue Border Pure Silk/Cotton Swarna Jhambul",
+    "slug": "maheshwari-arrow-butti-tissue-border-pure-silk-cotton-swarna-jhambul-9",
+    "weave": "Maheshwari",
+    "colour": "Purple",
+    "price": 6080,
+    "mrp": 6080,
+    "stock": 6,
+    "stockStatus": "In stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Madhya Pradesh",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/maheshwari-arrow-butti-tissue-border-pure-silk-cotton-swarna-jhambul-9",
+    "liveUrl": "https://www.padmorasarees.com/product/maheshwari-arrow-butti-tissue-border-pure-silk-cotton-swarna-jhambul-9",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791631165698-fgl1ws.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1117,
+        "colorName": "Swarna Jhambul",
+        "swatch": "purple",
+        "price": 6080,
+        "stock": 6,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791631165698-fgl1ws.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/maheshwari-arrow-butti-tissue-border-pure-silk-cotton-swarna-jhambul-9/image_0.webp"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Maheshwari Zari Checks Pure Silk/Cotton Bottle Green",
+    "slug": "maheshwari-zari-checks-pure-silk-cotton-bottle-green-10",
+    "weave": "Maheshwari",
+    "colour": "Green",
+    "price": 6299,
+    "mrp": 6299,
+    "stock": 1,
+    "stockStatus": "Low stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Nagaland",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/maheshwari-zari-checks-pure-silk-cotton-bottle-green-10",
+    "liveUrl": "https://www.padmorasarees.com/product/maheshwari-zari-checks-pure-silk-cotton-bottle-green-10",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791631824728-m1lbux.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1118,
+        "colorName": "Bottle Green",
+        "swatch": "green",
+        "price": 6299,
+        "stock": 1,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791631824728-m1lbux.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/maheshwari-zari-checks-pure-silk-cotton-bottle-green-10/image_0.webp"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Maheshwari Zari Checks Pure Silk/Cotton Vangi",
+    "slug": "maheshwari-zari-checks-pure-silk-cotton-vangi-11",
+    "weave": "Maheshwari",
+    "colour": "Purple",
+    "price": 6299,
+    "mrp": 6299,
+    "stock": 1,
+    "stockStatus": "Low stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Madhya Pradesh",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/maheshwari-zari-checks-pure-silk-cotton-vangi-11",
+    "liveUrl": "https://www.padmorasarees.com/product/maheshwari-zari-checks-pure-silk-cotton-vangi-11",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791630914940-u30er9.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1119,
+        "colorName": "Vangi",
+        "swatch": "purple",
+        "price": 6299,
+        "stock": 1,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791630914940-u30er9.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/maheshwari-zari-checks-pure-silk-cotton-vangi-11/image_0.webp"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Maheshwari Zari Checks Pure Silk/Cotton Royal Blue Bronze Zari",
+    "slug": "maheshwari-zari-checks-pure-silk-cotton-royal-blue-bronze-zari-12",
+    "weave": "Maheshwari",
+    "colour": "Blue",
+    "price": 6299,
+    "mrp": 6299,
+    "stock": 1,
+    "stockStatus": "Low stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Madhya Pradesh",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/maheshwari-zari-checks-pure-silk-cotton-royal-blue-bronze-zari-12",
+    "liveUrl": "https://www.padmorasarees.com/product/maheshwari-zari-checks-pure-silk-cotton-royal-blue-bronze-zari-12",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791631665167-fdtd8j.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1120,
+        "colorName": "Royal Blue",
+        "swatch": "blue",
+        "price": 6299,
+        "stock": 1,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791631665167-fdtd8j.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/maheshwari-zari-checks-pure-silk-cotton-royal-blue-bronze-zari-12/image_0.webp"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Maheshwari Zari Checks Pure Silk/Cotton Kajali",
+    "slug": "maheshwari-zari-checks-pure-silk-cotton-kajali-14",
+    "weave": "Maheshwari",
+    "colour": "Black",
+    "price": 6299,
+    "mrp": 6299,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Madhya Pradesh",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/maheshwari-zari-checks-pure-silk-cotton-kajali-14",
+    "liveUrl": "https://www.padmorasarees.com/product/maheshwari-zari-checks-pure-silk-cotton-kajali-14",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791631973425-i40fv0.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1122,
+        "colorName": "Kajali",
+        "swatch": "black",
+        "price": 6299,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791631973425-i40fv0.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/maheshwari-zari-checks-pure-silk-cotton-kajali-14/image_0.webp"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Maheshwari Zari Checks Pure Silk/Cotton Blue",
+    "slug": "maheshwari-zari-checks-pure-silk-cotton-blue-15",
+    "weave": "Maheshwari",
+    "colour": "Blue",
+    "price": 6299,
+    "mrp": 6299,
+    "stock": 1,
+    "stockStatus": "Low stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Madhya Pradesh",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/maheshwari-zari-checks-pure-silk-cotton-blue-15",
+    "liveUrl": "https://www.padmorasarees.com/product/maheshwari-zari-checks-pure-silk-cotton-blue-15",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791630566756-olqsu6.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1123,
+        "colorName": "Blue",
+        "swatch": "blue",
+        "price": 6299,
+        "stock": 1,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791630566756-olqsu6.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/maheshwari-zari-checks-pure-silk-cotton-blue-15/image_0.webp"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Maheshwari Zari Checks Pure Silk/Cotton Haldi",
+    "slug": "maheshwari-zari-checks-pure-silk-cotton-haldi-16",
+    "weave": "Maheshwari",
+    "colour": "Yellow",
+    "price": 6299,
+    "mrp": 6299,
+    "stock": 1,
+    "stockStatus": "Low stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Madhya Pradesh",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/maheshwari-zari-checks-pure-silk-cotton-haldi-16",
+    "liveUrl": "https://www.padmorasarees.com/product/maheshwari-zari-checks-pure-silk-cotton-haldi-16",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791632161236-y0plmx.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1124,
+        "colorName": "Haldi",
+        "swatch": "yellow",
+        "price": 6299,
+        "stock": 1,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791632161236-y0plmx.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/maheshwari-zari-checks-pure-silk-cotton-haldi-16/image_0.webp"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Maheshwari Zari Checks Pure Silk/Cotton Kunku",
+    "slug": "maheshwari-zari-checks-pure-silk-cotton-kunku-17",
+    "weave": "Maheshwari",
+    "colour": "Red",
+    "price": 6299,
+    "mrp": 6299,
+    "stock": 4,
+    "stockStatus": "In stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Madhya Pradesh",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/maheshwari-zari-checks-pure-silk-cotton-kunku-17",
+    "liveUrl": "https://www.padmorasarees.com/product/maheshwari-zari-checks-pure-silk-cotton-kunku-17",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791630337901-85bc8m.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1125,
+        "colorName": "Kunku",
+        "swatch": "red",
+        "price": 6299,
+        "stock": 4,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791630337901-85bc8m.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/maheshwari-zari-checks-pure-silk-cotton-kunku-17/image_0.webp"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Maheshwari Garbhareshmi Pure Silk/Cotton Morpankhi",
+    "slug": "maheshwari-garbhareshmi-pure-silk-cotton-morpankhi-18",
+    "weave": "Maheshwari",
+    "colour": "Peacock",
+    "price": 7260,
+    "mrp": 7260,
+    "stock": 2,
+    "stockStatus": "Low stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Madhya Pradesh",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/maheshwari-garbhareshmi-pure-silk-cotton-morpankhi-18",
+    "liveUrl": "https://www.padmorasarees.com/product/maheshwari-garbhareshmi-pure-silk-cotton-morpankhi-18",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791634196292-xtbjql.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1126,
+        "colorName": "Morpankhi",
+        "swatch": "peacock",
+        "price": 7260,
+        "stock": 2,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791634196292-xtbjql.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/maheshwari-garbhareshmi-pure-silk-cotton-morpankhi-18/image_0.webp"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Maheshwari Garbhareshmi Pure Silk/Cotton Kunku",
+    "slug": "maheshwari-garbhareshmi-pure-silk-cotton-kunku-19",
+    "weave": "Maheshwari",
+    "colour": "Red",
+    "price": 7260,
+    "mrp": 7260,
+    "stock": 1,
+    "stockStatus": "Low stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Madhya Pradesh",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/maheshwari-garbhareshmi-pure-silk-cotton-kunku-19",
+    "liveUrl": "https://www.padmorasarees.com/product/maheshwari-garbhareshmi-pure-silk-cotton-kunku-19",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791634729299-yb8cv5.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1127,
+        "colorName": "Kunku",
+        "swatch": "red",
+        "price": 7260,
+        "stock": 1,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791634729299-yb8cv5.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/maheshwari-garbhareshmi-pure-silk-cotton-kunku-19/image_0.webp"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Maheshwari Garbhareshmi Pure Silk/Cotton Jambhul",
+    "slug": "maheshwari-garbhareshmi-pure-silk-cotton-jambhul-20",
+    "weave": "Maheshwari",
+    "colour": "Purple",
+    "price": 7260,
+    "mrp": 7260,
+    "stock": 7,
+    "stockStatus": "In stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Madhya Pradesh",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/maheshwari-garbhareshmi-pure-silk-cotton-jambhul-20",
+    "liveUrl": "https://www.padmorasarees.com/product/maheshwari-garbhareshmi-pure-silk-cotton-jambhul-20",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791633418485-s5rvsc.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1128,
+        "colorName": "Jambhul",
+        "swatch": "purple",
+        "price": 7260,
+        "stock": 7,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791633418485-s5rvsc.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/maheshwari-garbhareshmi-pure-silk-cotton-jambhul-20/image_0.webp"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Maheshwari Garbhareshmi Pure Silk/Cotton Kasturi",
+    "slug": "maheshwari-garbhareshmi-pure-silk-cotton-kasturi-21",
+    "weave": "Maheshwari",
+    "colour": "Brown",
+    "price": 7260,
+    "mrp": 7260,
+    "stock": 1,
+    "stockStatus": "Low stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Madhya Pradesh",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/maheshwari-garbhareshmi-pure-silk-cotton-kasturi-21",
+    "liveUrl": "https://www.padmorasarees.com/product/maheshwari-garbhareshmi-pure-silk-cotton-kasturi-21",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791634948928-w6lro0.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791634975867-e2jzja.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1129,
+        "colorName": "Kasturi",
+        "swatch": "brown",
+        "price": 7260,
+        "stock": 1,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791634948928-w6lro0.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791634975867-e2jzja.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/maheshwari-garbhareshmi-pure-silk-cotton-kasturi-21/image_0.webp",
+      "/sarees/maheshwari-garbhareshmi-pure-silk-cotton-kasturi-21/image_1.webp"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Banarasi Small Border Pure Silk Lavender",
+    "slug": "banarasi-small-border-pure-silk-lavender-22",
+    "weave": "Banarasi",
+    "colour": "Pink",
+    "price": 9230,
+    "mrp": 9230,
+    "stock": 2,
+    "stockStatus": "Low stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Uttar Pradesh",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/banarasi-small-border-pure-silk-lavender-22",
+    "liveUrl": "https://www.padmorasarees.com/product/banarasi-small-border-pure-silk-lavender-22",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791636700016-dtqv2b.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791636707753-o46vs7.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1130,
+        "colorName": "Lavender",
+        "swatch": "pink",
+        "price": 9230,
+        "stock": 2,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791636700016-dtqv2b.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791636707753-o46vs7.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/banarasi-small-border-pure-silk-lavender-22/image_0.webp",
+      "/sarees/banarasi-small-border-pure-silk-lavender-22/image_1.webp"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Banarasi Small Border Pure Silk Pink",
+    "slug": "banarasi-small-border-pure-silk-pink-23",
+    "weave": "Banarasi",
+    "colour": "Pink",
+    "price": 9050,
+    "mrp": 9050,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Uttar Pradesh",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/banarasi-small-border-pure-silk-pink-23",
+    "liveUrl": "https://www.padmorasarees.com/product/banarasi-small-border-pure-silk-pink-23",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791636200826-85pxns.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791636447052-rmmpxd.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1131,
+        "colorName": "Pink",
+        "swatch": "pink",
+        "price": 9050,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791636200826-85pxns.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791636447052-rmmpxd.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/banarasi-small-border-pure-silk-pink-23/image_0.webp",
+      "/sarees/banarasi-small-border-pure-silk-pink-23/image_1.webp"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Paithani Dhupchao Baby Pink",
+    "slug": "paithani-dhupchao-baby-pink-25",
+    "weave": "Paithani",
+    "colour": "Pink",
+    "price": 18920,
+    "mrp": 18920,
+    "stock": 1,
+    "stockStatus": "Low stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Maharashtra",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/paithani-dhupchao-baby-pink-25",
+    "liveUrl": "https://www.padmorasarees.com/product/paithani-dhupchao-baby-pink-25",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791836104594-0tcfkg.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1155,
+        "colorName": "Baby Pink",
+        "swatch": "pink",
+        "price": 18920,
+        "stock": 1,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791836104594-0tcfkg.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/paithani-dhupchao-baby-pink-25/image_0.webp"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Paithani Royal Blue",
+    "slug": "paithani-royal-blue-26",
+    "weave": "Paithani",
+    "colour": "Blue",
+    "price": 18920,
+    "mrp": 18920,
+    "stock": 2,
+    "stockStatus": "Low stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Maharashtra",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/paithani-royal-blue-26",
+    "liveUrl": "https://www.padmorasarees.com/product/paithani-royal-blue-26",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791835062975-b8j5mv.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1156,
+        "colorName": "Royal Blue",
+        "swatch": "blue",
+        "price": 18920,
+        "stock": 2,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791835062975-b8j5mv.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/paithani-royal-blue-26/image_0.webp"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Paithani Chintamani",
+    "slug": "paithani-chintamani-27",
+    "weave": "Paithani",
+    "colour": "Teal",
+    "price": 18920,
+    "mrp": 18920,
+    "stock": 1,
+    "stockStatus": "Low stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Maharashtra",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/paithani-chintamani-27",
+    "liveUrl": "https://www.padmorasarees.com/product/paithani-chintamani-27",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791836453341-qmhe3v.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1157,
+        "colorName": "Chintamani",
+        "swatch": "teal",
+        "price": 18920,
+        "stock": 1,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791836453341-qmhe3v.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/paithani-chintamani-27/image_0.webp"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Paithani Light Green Dhupchao",
+    "slug": "paithani-light-green-dhupchao-29",
+    "weave": "Paithani",
+    "colour": "Green",
+    "price": 18920,
+    "mrp": 18920,
+    "stock": 1,
+    "stockStatus": "Low stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Maharashtra",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/paithani-light-green-dhupchao-29",
+    "liveUrl": "https://www.padmorasarees.com/product/paithani-light-green-dhupchao-29",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791835299981-u5wes6.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1159,
+        "colorName": "Light Green",
+        "swatch": "green",
+        "price": 18920,
+        "stock": 1,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791835299981-u5wes6.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/paithani-light-green-dhupchao-29/image_0.webp"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Paithani Rani",
+    "slug": "paithani-rani-30",
+    "weave": "Paithani",
+    "colour": "Pink",
+    "price": 18920,
+    "mrp": 18920,
+    "stock": 2,
+    "stockStatus": "Low stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Maharashtra",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive",
+    "productUrl": "/product/paithani-rani-30",
+    "liveUrl": "https://www.padmorasarees.com/product/paithani-rani-30",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791828287450-9n6fko.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1160,
+        "colorName": "Rani Pink",
+        "swatch": "pink",
+        "price": 18920,
+        "stock": 2,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791828287450-9n6fko.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/paithani-rani-30/image_0.webp"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Narayanpet Temple Border Flower Butti Morpankhi",
+    "slug": "narayanpet-temple-border-flower-butti-morpankhi-31",
+    "weave": "Narayanpet",
+    "colour": "Peacock",
+    "price": 2400,
+    "mrp": 2400,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Telangana",
+    "loomType": "Handloom",
+    "occasion": "Festive, Casual, Office",
+    "productUrl": "/product/narayanpet-temple-border-flower-butti-morpankhi-31",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-temple-border-flower-butti-morpankhi-31",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791642040210-e9q4o6.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791839196686-igffkw.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1161,
+        "colorName": "Morpankhi",
+        "swatch": "peacock",
+        "price": 2400,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791642040210-e9q4o6.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791839196686-igffkw.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/narayanpet-temple-border-flower-butti-morpankhi-31/image_0.webp",
+      "/sarees/narayanpet-temple-border-flower-butti-morpankhi-31/image_1.webp"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Narayanpet Temple Border Flower Butti Chintamani",
+    "slug": "narayanpet-temple-border-flower-butti-chintamani-32",
+    "weave": "Narayanpet",
+    "colour": "Teal",
+    "price": 2400,
+    "mrp": 2400,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Telangana",
+    "loomType": "Handloom",
+    "occasion": "Festive, Casual, Office",
+    "productUrl": "/product/narayanpet-temple-border-flower-butti-chintamani-32",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-temple-border-flower-butti-chintamani-32",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791641665182-k1lwng.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791839179246-mf1gob.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1167,
+        "colorName": "Chintamani",
+        "swatch": "teal",
+        "price": 2400,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791641665182-k1lwng.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791839179246-mf1gob.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/narayanpet-temple-border-flower-butti-chintamani-32/image_0.webp",
+      "/sarees/narayanpet-temple-border-flower-butti-chintamani-32/image_1.webp"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Narayanpet Temple Border Solid Pink",
+    "slug": "narayanpet-temple-border-solid-pink-33",
+    "weave": "Narayanpet",
+    "colour": "Pink",
+    "price": 2100,
+    "mrp": 2100,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Telangana",
+    "loomType": "Handloom",
+    "occasion": "Festive, Casual, Office",
+    "productUrl": "/product/narayanpet-temple-border-solid-pink-33",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-temple-border-solid-pink-33",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791641245371-7qan11.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791839161872-s8we42.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1163,
+        "colorName": "Pink",
+        "swatch": "pink",
+        "price": 2100,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791641245371-7qan11.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791839161872-s8we42.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/narayanpet-temple-border-solid-pink-33/image_0.webp",
+      "/sarees/narayanpet-temple-border-solid-pink-33/image_1.webp"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Narayanpet Elephant Border Blue with Red Border",
+    "slug": "narayanpet-elephant-border-blue-with-red-border-34",
+    "weave": "Narayanpet",
+    "colour": "Blue",
+    "price": 2100,
+    "mrp": 2100,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Telangana",
+    "loomType": "Handloom",
+    "occasion": "Festive, Casual, Office",
+    "productUrl": "/product/narayanpet-elephant-border-blue-with-red-border-34",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-elephant-border-blue-with-red-border-34",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791641002596-819o3m.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791839145948-c7vw11.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1164,
+        "colorName": "Blue",
+        "swatch": "blue",
+        "price": 2100,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791641002596-819o3m.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791839145948-c7vw11.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/narayanpet-elephant-border-blue-with-red-border-34/image_0.webp",
+      "/sarees/narayanpet-elephant-border-blue-with-red-border-34/image_1.webp"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Narayanpet Temple Border Solid Chintamani",
+    "slug": "narayanpet-temple-border-solid-chintamani-35",
+    "weave": "Narayanpet",
+    "colour": "Teal",
+    "price": 2100,
+    "mrp": 2100,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Telangana",
+    "loomType": "Handloom",
+    "occasion": "Festive, Casual, Office",
+    "productUrl": "/product/narayanpet-temple-border-solid-chintamani-35",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-temple-border-solid-chintamani-35",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791640572977-5mxw80.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791640667541-dzt2he.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791839125928-ynves4.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1168,
+        "colorName": "Chintamani",
+        "swatch": "teal",
+        "price": 2100,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791640572977-5mxw80.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791640667541-dzt2he.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791839125928-ynves4.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/narayanpet-temple-border-solid-chintamani-35/image_0.webp",
+      "/sarees/narayanpet-temple-border-solid-chintamani-35/image_1.webp",
+      "/sarees/narayanpet-temple-border-solid-chintamani-35/image_2.webp"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Narayanpet Temple Border Solid Maroon",
+    "slug": "narayanpet-temple-border-solid-maroon-36",
+    "weave": "Narayanpet",
+    "colour": "Maroon",
+    "price": 2100,
+    "mrp": 2100,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Telangana",
+    "loomType": "Handloom",
+    "occasion": "Festive, Casual, Office",
+    "productUrl": "/product/narayanpet-temple-border-solid-maroon-36",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-temple-border-solid-maroon-36",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791640351347-3xa723.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791640400915-rlh10h.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791839110441-jxq1iu.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1166,
+        "colorName": "Maroon",
+        "swatch": "maroon",
+        "price": 2100,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791640351347-3xa723.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791640400915-rlh10h.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791839110441-jxq1iu.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/narayanpet-temple-border-solid-maroon-36/image_0.webp",
+      "/sarees/narayanpet-temple-border-solid-maroon-36/image_1.webp",
+      "/sarees/narayanpet-temple-border-solid-maroon-36/image_2.webp"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Banarasi small border Semi Katan Silk Red",
+    "slug": "banarasi-small-border-semi-katan-silk-red-38",
+    "weave": "Banarasi",
+    "colour": "Red",
+    "price": 3690,
+    "mrp": 3690,
+    "stock": 7,
+    "stockStatus": "In stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Uttar Pradesh",
+    "loomType": "Powerloom",
+    "occasion": "Wedding, Festive, Casual, Party",
+    "productUrl": "/product/banarasi-small-border-semi-katan-silk-red-38",
+    "liveUrl": "https://www.padmorasarees.com/product/banarasi-small-border-semi-katan-silk-red-38",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791837234117-d98igo.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791837240205-t1kjak.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1200,
+        "colorName": "Red",
+        "swatch": "red",
+        "price": 3690,
+        "stock": 7,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791837234117-d98igo.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791837240205-t1kjak.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/banarasi-small-border-semi-katan-silk-red-38/image_0.webp",
+      "/sarees/banarasi-small-border-semi-katan-silk-red-38/image_1.webp"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Banarasi Small Border Katan Semi Silk Purple",
+    "slug": "banarasi-small-border-katan-semi-silk-purple-39",
+    "weave": "Banarasi",
+    "colour": "Purple",
+    "price": 3690,
+    "mrp": 3690,
+    "stock": 9,
+    "stockStatus": "In stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Uttar Pradesh",
+    "loomType": "Powerloom",
+    "occasion": "Wedding, Festive, Party",
+    "productUrl": "/product/banarasi-small-border-katan-semi-silk-purple-39",
+    "liveUrl": "https://www.padmorasarees.com/product/banarasi-small-border-katan-semi-silk-purple-39",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791891666074-9pkure.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791837640934-8n70l9.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1201,
+        "colorName": "Purple",
+        "swatch": "purple",
+        "price": 3690,
+        "stock": 9,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791891666074-9pkure.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791837640934-8n70l9.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/banarasi-small-border-katan-semi-silk-purple-39/image_0.webp",
+      "/sarees/banarasi-small-border-katan-semi-silk-purple-39/image_1.webp"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Narayanpet Elephant Border Mustard",
+    "slug": "narayanpet-elephant-border-mustard-40",
+    "weave": "Narayanpet",
+    "colour": "Mustard",
+    "price": 2100,
+    "mrp": 2100,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Telangana",
+    "loomType": "Handloom",
+    "occasion": "Festive, Casual, Office",
+    "productUrl": "/product/narayanpet-elephant-border-mustard-40",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-elephant-border-mustard-40",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791838972843-zno48n.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791839043035-v2t639.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1202,
+        "colorName": "mustard",
+        "swatch": "mustard",
+        "price": 2100,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791838972843-zno48n.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791839043035-v2t639.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/narayanpet-elephant-border-mustard-40/image_0.webp",
+      "/sarees/narayanpet-elephant-border-mustard-40/image_1.webp"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Narayanpet Wave Border Green",
+    "slug": "narayanpet-wave-border-green-41",
+    "weave": "Narayanpet",
+    "colour": "Green",
+    "price": 2100,
+    "mrp": 2100,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Telangana",
+    "loomType": "Handloom",
+    "occasion": "Festive, Casual, Office",
+    "productUrl": "/product/narayanpet-wave-border-green-41",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-wave-border-green-41",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791839719746-rgkpas.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791839725859-ziq2dz.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1203,
+        "colorName": "green",
+        "swatch": "green",
+        "price": 2100,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791839719746-rgkpas.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791839725859-ziq2dz.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/narayanpet-wave-border-green-41/image_0.webp",
+      "/sarees/narayanpet-wave-border-green-41/image_1.webp"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Narayanpet Elephant Border Light Green",
+    "slug": "narayanpet-elephant-border-light-green-42",
+    "weave": "Narayanpet",
+    "colour": "Green",
+    "price": 2100,
+    "mrp": 2100,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Maheshwar / Chanderi",
+    "loomType": "Handloom",
+    "occasion": "Festive, Casual, Office",
+    "productUrl": "/product/narayanpet-elephant-border-light-green-42",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-elephant-border-light-green-42",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791840085626-yydtmk.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791840091569-5cojxk.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1204,
+        "colorName": "Light Green",
+        "swatch": "green",
+        "price": 2100,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791840085626-yydtmk.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791840091569-5cojxk.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/narayanpet-elephant-border-light-green-42/image_0.webp",
+      "/sarees/narayanpet-elephant-border-light-green-42/image_1.webp"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Narayanpet Elephant Border Maroon",
+    "slug": "narayanpet-elephant-border-maroon-43",
+    "weave": "Narayanpet",
+    "colour": "Maroon",
+    "price": 2100,
+    "mrp": 2100,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Maheshwar / Chanderi",
+    "loomType": "Handloom",
+    "occasion": "Festive, Casual, Office",
+    "productUrl": "/product/narayanpet-elephant-border-maroon-43",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-elephant-border-maroon-43",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791840248309-ta8k28.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791840258379-wvziqm.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1205,
+        "colorName": "Maroon",
+        "swatch": "maroon",
+        "price": 2100,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791840248309-ta8k28.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791840258379-wvziqm.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/narayanpet-elephant-border-maroon-43/image_0.webp",
+      "/sarees/narayanpet-elephant-border-maroon-43/image_1.webp"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Narayanpet Wave Border Chintamani",
+    "slug": "narayanpet-wave-border-chintamani-44",
+    "weave": "Narayanpet",
+    "colour": "Teal",
+    "price": 2100,
+    "mrp": 2100,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Maheshwar / Chanderi",
+    "loomType": "Handloom",
+    "occasion": "Festive, Casual, Office",
+    "productUrl": "/product/narayanpet-wave-border-chintamani-44",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-wave-border-chintamani-44",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791840430194-mo7epe.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791840438152-fc5xb2.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1206,
+        "colorName": "Chintamani",
+        "swatch": "teal",
+        "price": 2100,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791840430194-mo7epe.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791840438152-fc5xb2.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/narayanpet-wave-border-chintamani-44/image_0.webp",
+      "/sarees/narayanpet-wave-border-chintamani-44/image_1.webp"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Narayanpet Striped Temple Border Green",
+    "slug": "narayanpet-striped-temple-border-green-47",
+    "weave": "Narayanpet",
+    "colour": "Green",
+    "price": 2530,
+    "mrp": 2530,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Telangana",
+    "loomType": "Handloom",
+    "occasion": "Festive, Casual, Office",
+    "productUrl": "/product/narayanpet-striped-temple-border-green-47",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-striped-temple-border-green-47",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791840831567-r53iic.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791840837972-7u282y.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1217,
+        "colorName": "green",
+        "swatch": "green",
+        "price": 2530,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791840831567-r53iic.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791840837972-7u282y.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/narayanpet-striped-temple-border-green-47/image_0.webp",
+      "/sarees/narayanpet-striped-temple-border-green-47/image_1.webp"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Narayanpet Striped Temple Border Chintamani",
+    "slug": "narayanpet-striped-temple-border-chintamani-49",
+    "weave": "Narayanpet",
+    "colour": "Teal",
+    "price": 2530,
+    "mrp": 2530,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Telangana",
+    "loomType": "Handloom",
+    "occasion": "Festive, Casual, Office",
+    "productUrl": "/product/narayanpet-striped-temple-border-chintamani-49",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-striped-temple-border-chintamani-49",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791841119697-228kxn.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791841124758-kxrka6.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1225,
+        "colorName": "Chintamani",
+        "swatch": "teal",
+        "price": 2530,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791841119697-228kxn.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791841124758-kxrka6.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/narayanpet-striped-temple-border-chintamani-49/image_0.webp",
+      "/sarees/narayanpet-striped-temple-border-chintamani-49/image_1.webp"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Maheshwari Diamond Butti Pure Silk/Cotton Maharani",
+    "slug": "maheshwari-diamond-butti-pure-silk-cotton-maharani-50",
+    "weave": "Maheshwari",
+    "colour": "Wine",
+    "price": 6080,
+    "mrp": 6080,
+    "stock": 2,
+    "stockStatus": "Low stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Madhya Pradesh",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive, Casual, Party",
+    "productUrl": "/product/maheshwari-diamond-butti-pure-silk-cotton-maharani-50",
+    "liveUrl": "https://www.padmorasarees.com/product/maheshwari-diamond-butti-pure-silk-cotton-maharani-50",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791889865534-qu7xg6.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1278,
+        "colorName": "Mharani",
+        "swatch": "wine",
+        "price": 6080,
+        "stock": 2,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791889865534-qu7xg6.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/maheshwari-diamond-butti-pure-silk-cotton-maharani-50/image_0.webp"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Maheshwari Zari checks Pure Silk/Cotton Violet",
+    "slug": "maheshwari-zari-checks-pure-silk-cotton-violet-51",
+    "weave": "Maheshwari",
+    "colour": "Purple",
+    "price": 6299,
+    "mrp": 6299,
+    "stock": 1,
+    "stockStatus": "Low stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Madhya Pradesh",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive, Party",
+    "productUrl": "/product/maheshwari-zari-checks-pure-silk-cotton-violet-51",
+    "liveUrl": "https://www.padmorasarees.com/product/maheshwari-zari-checks-pure-silk-cotton-violet-51",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791890498288-8yel02.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1279,
+        "colorName": "Violet",
+        "swatch": "purple",
+        "price": 6299,
+        "stock": 1,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791890498288-8yel02.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/maheshwari-zari-checks-pure-silk-cotton-violet-51/image_0.webp"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Narayanpet Elephant Border Blue",
+    "slug": "narayanpet-elephant-border-blue-52",
+    "weave": "Narayanpet",
+    "colour": "Blue",
+    "price": 2100,
+    "mrp": 2100,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Telangana",
+    "loomType": "Handloom",
+    "occasion": "Festive, Casual, Office",
+    "productUrl": "/product/narayanpet-elephant-border-blue-52",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-elephant-border-blue-52",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791891488548-ddwcas.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791891495908-kjxf4i.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1280,
+        "colorName": "Blue",
+        "swatch": "blue",
+        "price": 2100,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791891488548-ddwcas.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791891495908-kjxf4i.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/narayanpet-elephant-border-blue-52/image_0.webp",
+      "/sarees/narayanpet-elephant-border-blue-52/image_1.webp"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Maheshwari Garbhareshmi Pure Silk/Cotton  Maroon-Violate Dhupchao",
+    "slug": "maheshwari-garbhareshmi-pure-silk-cotton-maroon-violate-dhupchao-53",
+    "weave": "Maheshwari",
+    "colour": "Purple",
+    "price": 7260,
+    "mrp": 7260,
+    "stock": 2,
+    "stockStatus": "Low stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Madhya Pradesh",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive, Casual, Party, Office",
+    "productUrl": "/product/maheshwari-garbhareshmi-pure-silk-cotton-maroon-violate-dhupchao-53",
+    "liveUrl": "https://www.padmorasarees.com/product/maheshwari-garbhareshmi-pure-silk-cotton-maroon-violate-dhupchao-53",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791973261894-jrvlk6.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1281,
+        "colorName": "Maroon-Violet",
+        "swatch": "purple",
+        "price": 7260,
+        "stock": 2,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791973261894-jrvlk6.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/maheshwari-garbhareshmi-pure-silk-cotton-maroon-violate-dhupchao-53/image_0.webp"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Maheshwari Medium Border Burgundy",
+    "slug": "maheshwari-medium-border-burgundy-54",
+    "weave": "Maheshwari",
+    "colour": "Maroon",
+    "price": 7260,
+    "mrp": 7260,
+    "stock": 1,
+    "stockStatus": "Low stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Madhya Pradesh",
+    "loomType": "Handloom",
+    "occasion": "Wedding, Festive, Casual, Party",
+    "productUrl": "/product/maheshwari-medium-border-burgundy-54",
+    "liveUrl": "https://www.padmorasarees.com/product/maheshwari-medium-border-burgundy-54",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791973824491-9wjchr.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1282,
+        "colorName": "Burgundy",
+        "swatch": "maroon",
+        "price": 7260,
+        "stock": 1,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791973824491-9wjchr.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/maheshwari-medium-border-burgundy-54/image_0.webp"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Narayanpet Temple Border Dark Green",
+    "slug": "narayanpet-temple-border-dark-green-55",
+    "weave": "Narayanpet",
+    "colour": "Green",
+    "price": 2100,
+    "mrp": 2100,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Telangana",
+    "loomType": "Powerloom",
+    "occasion": "Festive, Casual, Office",
+    "productUrl": "/product/narayanpet-temple-border-dark-green-55",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-temple-border-dark-green-55",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791977907918-cb3tjl.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1283,
+        "colorName": "Green",
+        "swatch": "green",
+        "price": 2100,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791977907918-cb3tjl.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/narayanpet-temple-border-dark-green-55/image_0.webp"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Narayanpet Temple Border Peachy Pink",
+    "slug": "narayanpet-temple-border-peachy-pink-56",
+    "weave": "Narayanpet",
+    "colour": "Pink",
+    "price": 2100,
+    "mrp": 2100,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Maheshwar / Chanderi",
+    "loomType": "Handloom",
+    "occasion": "Festive, Casual, Party, Office",
+    "productUrl": "/product/narayanpet-temple-border-peachy-pink-56",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-temple-border-peachy-pink-56",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791978079474-mhdnpo.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1284,
+        "colorName": "Peachy Pink",
+        "swatch": "pink",
+        "price": 2100,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791978079474-mhdnpo.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/narayanpet-temple-border-peachy-pink-56/image_0.webp"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Narayanpet Medium Border Indigo",
+    "slug": "narayanpet-medium-border-indigo-57",
+    "weave": "Narayanpet",
+    "colour": "Indigo",
+    "price": 2100,
+    "mrp": 2100,
+    "stock": 3,
+    "stockStatus": "In stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Telangana",
+    "loomType": "Handcrafted",
+    "occasion": "Festive, Casual, Party, Office",
+    "productUrl": "/product/narayanpet-medium-border-indigo-57",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-medium-border-indigo-57",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791978299026-ew9jlv.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1285,
+        "colorName": "Indigo",
+        "swatch": "indigo",
+        "price": 2100,
+        "stock": 3,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791978299026-ew9jlv.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/narayanpet-medium-border-indigo-57/image_0.webp"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Narayanpet Medium Border Green",
+    "slug": "narayanpet-medium-border-green-58",
+    "weave": "Narayanpet",
+    "colour": "Green",
+    "price": 2100,
+    "mrp": 2100,
+    "stock": 2,
+    "stockStatus": "Low stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Tamil Nadu",
+    "loomType": "Handcrafted",
+    "occasion": "Festive, Casual, Party, Office",
+    "productUrl": "/product/narayanpet-medium-border-green-58",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-medium-border-green-58",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791982233818-6labt9.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1286,
+        "colorName": "Green",
+        "swatch": "green",
+        "price": 2100,
+        "stock": 2,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791982233818-6labt9.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/narayanpet-medium-border-green-58/image_0.webp"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Narayanpet Big Border Red",
+    "slug": "narayanpet-big-border-red-65",
+    "weave": "Narayanpet",
+    "colour": "Red",
+    "price": 2100,
+    "mrp": 2100,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Telangana",
+    "loomType": "Handcrafted",
+    "occasion": "Festive, Casual, Party, Office",
+    "productUrl": "/product/narayanpet-big-border-red-65",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-big-border-red-65",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791978837223-x3sjuv.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1293,
+        "colorName": "Red",
+        "swatch": "red",
+        "price": 2100,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791978837223-x3sjuv.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/narayanpet-big-border-red-65/image_0.webp"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Narayanpet Wave Border Bottle Green",
+    "slug": "narayanpet-wave-border-bottle-green-66",
+    "weave": "Narayanpet",
+    "colour": "Green",
+    "price": 2100,
+    "mrp": 2100,
+    "stock": 2,
+    "stockStatus": "Low stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Telangana",
+    "loomType": "Handcrafted",
+    "occasion": "Festive, Casual, Party, Office",
+    "productUrl": "/product/narayanpet-wave-border-bottle-green-66",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-wave-border-bottle-green-66",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791979785667-aa4093.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1294,
+        "colorName": "Bottle Green",
+        "swatch": "green",
+        "price": 2100,
+        "stock": 2,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791979785667-aa4093.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/narayanpet-wave-border-bottle-green-66/image_0.webp"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Narayanpet Elephant Green with Red Border",
+    "slug": "narayanpet-elephant-green-with-red-border-67",
+    "weave": "Narayanpet",
+    "colour": "Green",
+    "price": 2100,
+    "mrp": 2100,
+    "stock": 3,
+    "stockStatus": "In stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Maheshwar / Chanderi",
+    "loomType": "Handloom",
+    "occasion": "Festive, Casual, Party, Office",
+    "productUrl": "/product/narayanpet-elephant-green-with-red-border-67",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-elephant-green-with-red-border-67",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791981080617-ay0j9j.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791983621132-z8dtjz.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1295,
+        "colorName": "Green",
+        "swatch": "green",
+        "price": 2100,
+        "stock": 3,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791981080617-ay0j9j.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791983621132-z8dtjz.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/narayanpet-elephant-green-with-red-border-67/image_0.webp",
+      "/sarees/narayanpet-elephant-green-with-red-border-67/image_1.webp"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Narayanpet Koyri Border Maroon",
+    "slug": "narayanpet-koyri-border-maroon-68",
+    "weave": "Narayanpet",
+    "colour": "Maroon",
+    "price": 2100,
+    "mrp": 2100,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Maheshwar / Chanderi",
+    "loomType": "Handloom",
+    "occasion": "Festive, Casual, Party, Office",
+    "productUrl": "/product/narayanpet-koyri-border-maroon-68",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-koyri-border-maroon-68",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791981120554-w226ta.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1296,
+        "colorName": "Maroon",
+        "swatch": "maroon",
+        "price": 2100,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791981120554-w226ta.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/narayanpet-koyri-border-maroon-68/image_0.webp"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Narayanpet Koyri Border Chintamani",
+    "slug": "narayanpet-koyri-border-chintamani-69",
+    "weave": "Narayanpet",
+    "colour": "Teal",
+    "price": 2100,
+    "mrp": 2100,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Maheshwar / Chanderi",
+    "loomType": "Handloom",
+    "occasion": "Festive, Casual, Party, Office",
+    "productUrl": "/product/narayanpet-koyri-border-chintamani-69",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-koyri-border-chintamani-69",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791981326247-qj8ap9.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791983595710-r2l8mk.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1297,
+        "colorName": "Chintamani",
+        "swatch": "teal",
+        "price": 2100,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791981326247-qj8ap9.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791983595710-r2l8mk.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/narayanpet-koyri-border-chintamani-69/image_0.webp",
+      "/sarees/narayanpet-koyri-border-chintamani-69/image_1.webp"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Narayanpet Temple Chintamani with Pink Border",
+    "slug": "narayanpet-temple-chintamani-with-pink-border-70",
+    "weave": "Narayanpet",
+    "colour": "Teal",
+    "price": 2120,
+    "mrp": 2120,
+    "stock": 0,
+    "stockStatus": "Sold out",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Maheshwar / Chanderi",
+    "loomType": "Handloom",
+    "occasion": "Festive, Casual, Party, Office",
+    "productUrl": "/product/narayanpet-temple-chintamani-with-pink-border-70",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-temple-chintamani-with-pink-border-70",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791981545357-hjbk8u.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791983525359-ndfh7a.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1298,
+        "colorName": "Chintamani",
+        "swatch": "teal",
+        "price": 2120,
+        "stock": 0,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791981545357-hjbk8u.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791983525359-ndfh7a.webp"
+        ]
+      }
+    ],
+    "badge": "new",
+    "localImages": [
+      "/sarees/narayanpet-temple-chintamani-with-pink-border-70/image_0.webp",
+      "/sarees/narayanpet-temple-chintamani-with-pink-border-70/image_1.webp"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Narayanpet Temple Dark Green Red Border",
+    "slug": "narayanpet-temple-dark-green-red-border-71",
+    "weave": "Narayanpet",
+    "colour": "Green",
+    "price": 2100,
+    "mrp": 2100,
+    "stock": 1,
+    "stockStatus": "Low stock",
+    "weaverName": "Master Weaver",
+    "weaverRegion": "Maheshwar / Chanderi",
+    "loomType": "Handloom",
+    "occasion": "Festive, Casual, Party, Office",
+    "productUrl": "/product/narayanpet-temple-dark-green-red-border-71",
+    "liveUrl": "https://www.padmorasarees.com/product/narayanpet-temple-dark-green-red-border-71",
+    "imageUrls": [
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791982099302-86x628.webp",
+      "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791983509401-bmzm0i.webp"
+    ],
+    "variants": [
+      {
+        "variantId": 1299,
+        "colorName": "Dark Green",
+        "swatch": "green",
+        "price": 2100,
+        "stock": 1,
+        "images": [
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791982099302-86x628.webp",
+          "https://fxjlgsatgajagzqdokbe.supabase.co/storage/v1/object/public/uploads/1791983509401-bmzm0i.webp"
+        ]
+      }
+    ],
+    "badge": null,
+    "localImages": [
+      "/sarees/narayanpet-temple-dark-green-red-border-71/image_0.webp",
+      "/sarees/narayanpet-temple-dark-green-red-border-71/image_1.webp"
+    ]
+  }
+]

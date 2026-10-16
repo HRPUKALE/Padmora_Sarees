@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" style="background:#FAF8F5;font-family:system-ui,-apple-system,sans-serif;">
+  <rect width="1200" height="70" fill="#4A1525"/>
+  <text x="40" y="44" fill="#FAF5EF" font-size="22" font-weight="bold" letter-spacing="1">PADMORA SAREES BY YASHI — LIVE AUDIT</text>
+  <text x="1000" y="44" fill="#E2D4C8" font-size="14">LIVE STORE CAPTURE</text>
+
+  <!-- Title Section -->
+  <rect x="40" y="95" width="1120" height="60" rx="8" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text x="60" y="132" fill="#1E293B" font-size="20" font-weight="600">Product Page: Trust Gaps & Informal Dev Notes</text>
+  <text x="500" y="132" fill="#64748B" font-size="14">https://www.padmorasarees.com/product/...</text>
+
+  <!-- Visual Mock / Snippet of live site -->
+  <g transform="translate(40, 175)">
+    
+<rect x="20" y="15" width="300" height="235" rx="6" fill="#F1F5F9" stroke="#CBD5E1"/>
+<text x="75" y="130" fill="#64748B" font-size="14">[Folded Saree Still]</text>
+<g transform="translate(350, 20)">
+  <text x="0" y="30" fill="#1E293B" font-size="20" font-weight="bold">Maheshwari Leaf Butti Pure Silk/Cotton</text>
+  <text x="0" y="60" fill="#831843" font-size="18" font-weight="bold">Rs 6,080</text>
+  <rect x="0" y="80" width="720" height="140" rx="6" fill="#FEF2F2" stroke="#FCA5A5"/>
+  <text x="20" y="115" fill="#991B1B" font-size="14" font-weight="bold">Live Site Product Details snippet:</text>
+  <text x="20" y="145" fill="#B91C1C" font-size="13">"Occasion: Tumhi paise bharlet, kadhi pan ghala bindaaaaaas!!! | Aapkki Saree apki marjiiii."</text>
+  <text x="20" y="180" fill="#475569" font-size="13">• Missing fibre breakdown, yarn count, loom verification, and Silk Mark.</text>
+</g>
+
+  </g>
+
+  <!-- Findings Callout -->
+  <rect x="40" y="470" width="1120" height="240" rx="12" fill="#FFF1F2" stroke="#FDA4AF" stroke-width="2"/>
+  <text x="70" y="510" fill="#9F1239" font-size="18" font-weight="bold">AUDIT FINDINGS &amp; UX GAPS IDENTIFIED ON LIVE SITE:</text>
+  <text x="70" y="545" fill="#334155" font-size="15">• Informal developer notes in live customer-facing description damages luxury handloom trust.</text><text x="70" y="579" fill="#334155" font-size="15">• Price justification missing: No fibre % (e.g. 50% Mulberry silk warp / 50% cotton weft) or loom provenance.</text><text x="70" y="613" fill="#334155" font-size="15">• Maheshwari Zari Checks priced at Rs 6,299 vs Rs 3,999 benchmark without stated value proposition.</text><text x="70" y="647" fill="#334155" font-size="15">• Zero on-woman drape photos or vertical 10s video reels showing fabric flow, pleats, and pallu weight.</text><text x="70" y="681" fill="#334155" font-size="15">• Missing direct WhatsApp consultation button for high-ticket handloom purchases.</text>
+</svg>

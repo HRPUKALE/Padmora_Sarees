@@ -1,0 +1,6 @@
+{
+  "name": "Padmora Sarees by Yashi — Heritage Handloom & AI Pitch Demo",
+  "description": "Experience luxury handloom sarees from Maheshwar, Paithani, Narayanpet & Banarasi with photorealistic AI draping, 10s reels, weave provenance, and comprehensive UX pitch benchmark.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

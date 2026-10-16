@@ -1,0 +1,115 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-maroon-dark: #3b0f1e;
+    --color-maroon-primary: #5c1b2f;
+    --color-maroon-light: #7a2740;
+    --color-rose-gold: #c98a72;
+    --color-zari-gold: #c59b27;
+    --color-warm-ivory: #fcf9f2;
+    --color-warm-cream: #f6f0e4;
+  }
+
+  body {
+    background-color: #fcf9f2;
+    color: #2b1f22;
+    font-family: 'Jost', -apple-system, BlinkMacSystemFont, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, h4, .font-serif-marcellus {
+    font-family: 'Marcellus', 'Cormorant Garamond', Georgia, serif;
+    letter-spacing: 0.02em;
+  }
+
+  .font-serif-cormorant {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+  }
+}
+
+/* Explicit aspect ratio & image constraints */
+.aspect-3-4 {
+  aspect-ratio: 3 / 4;
+}
+.aspect-9-16 {
+  aspect-ratio: 9 / 16;
+}
+.aspect-16-9 {
+  aspect-ratio: 16 / 9;
+}
+.aspect-4-3 {
+  aspect-ratio: 4 / 3;
+}
+.aspect-16-10 {
+  aspect-ratio: 16 / 10;
+}
+.aspect-1-1 {
+  aspect-ratio: 1 / 1;
+}
+
+/* Card image responsive sizing */
+.saree-card-img-wrap {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  max-height: 280px;
+  overflow: hidden;
+  background-color: #f7f3eb;
+}
+
+@media (min-width: 640px) {
+  .saree-card-img-wrap {
+    max-height: 320px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .saree-card-img-wrap {
+    max-height: 300px;
+  }
+}
+
+/* Video reel card responsive sizing */
+.reel-rail-item {
+  flex: 0 0 140px;
+  aspect-ratio: 9 / 16;
+  max-height: 250px;
+}
+@media (min-width: 640px) {
+  .reel-rail-item {
+    flex: 0 0 170px;
+    max-height: 300px;
+  }
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f1ebd8;
+}
+::-webkit-scrollbar-thumb {
+  background: #c59b27;
+  border-radius: 3px;
+}
+
+/* Print styling for one-page pitch PDF export */
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+  }
+  .no-print {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+  .page-break {
+    page-break-after: always;
+  }
+}
